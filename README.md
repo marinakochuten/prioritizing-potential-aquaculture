@@ -13,7 +13,7 @@ This repository contains a Quarto document and rendered HTML file for my analysi
 - resampling raster data
 - masking raster data
 - map algebra
-- function buildingg
+- function building
 
 ## Repository content and structure
 
