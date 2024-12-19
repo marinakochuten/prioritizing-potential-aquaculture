@@ -20,24 +20,24 @@ This repository contains a Quarto document and rendered HTML file for my analysi
 ```
 EDS223-HW4
 │   .gitignore
-│   HW4.html
-│   HW4.qmd
 │   README.md
-│
 └───data
-    │   wc_regions_clean.dbf
-    │   wc_regions_clean.prj
-    │   wc_regions_clean.shp
-    │   wc_regions_clean.shx
-    │   depth.tif
-    │   average_annual_sst_2008.tif
-    │   average_annual_sst_2009.tif
-    │   average_annual_sst_2010.tif
-    │   average_annual_sst_2011.tif
-    └───average_annual_sst_2012.tif
+│   │    wc_regions_clean.dbf
+│   │    wc_regions_clean.prj
+│   │    wc_regions_clean.shp
+│   │    wc_regions_clean.shx
+│   │    depth.tif
+│   │    average_annual_sst_2008.tif
+│   │    average_annual_sst_2009.tif
+│   │    average_annual_sst_2010.tif
+│   │    average_annual_sst_2011.tif
+│   └─── average_annual_sst_2012.tif
+└───docs
+    │    aquaculture-analysis.qmd
+    └─── aquaculture-analysis.html
 ```
 
-All of the code for my analysis can be found in HW4.qmd. This has been rendered into a report, HW4.html. 
+All of the code for my analysis can be found in aquaculture-analysis.qmd. This has been rendered into a report, aquaculture-analysis.html. 
 
 ## Data details
 
